@@ -9,7 +9,7 @@
             </div>
 
  <h3>Rinai Natsumi</h3>
-             <a class="social-media-icon facebook" href="https://www.facebook.com/adinata.dzaky.1" style="color: #fff">
+             <a class="social-media-icon facebook" href="https://www.facebook.com/rinai.natsu" style="color: #fff">
 	<span class="fab fa-facebook"></span></a>
 <!-- Twitter -->
 <a class="social-media-icon twitter" href="https://twitter.com/dzakyadinata" style="color: #fff">
@@ -18,13 +18,13 @@
 <a class="social-media-icon instagram" href="https://instagram.com/dzaky_adinata" style="color: #fff">
 	<span class="fab fa-instagram"></span></a>
 	<!-- GH -->
-	<a class="social-media-icon github" href="https://github.com/Dzaky05" style="color: #fff"><span class="fab fa-github"></span></a>
+	<a class="social-media-icon github" href="https://github.com/rinanatsu" style="color: #fff"><span class="fab fa-github"></span></a>
 <!-- Pixiv -->
 <a class="social-media-icon pixiv" href="https://www.pixiv.net/en/users/76135039">
     <img src="https://raw.githubusercontent.com/kyynata/kucinghitam/main/media/img_2_1703640314134.jpg" style="width: 15px">	
 </a>
 
-Halo semua! <b>Rinai Natsumi</b> disini, selaku penulis blog ini. Tentu ini bukanlah nama asli, melainkan nama pena. Kalau ditarik etimologinya, nama pena saya ini terdiri dari dua kata dalam dua bahasa berbeda. "<i><a href="https://kbbi.kemdikbud.go.id/entri/Rinai">Rinai</a></i>," berasal dari bahasa Minangkabau berarti "rintik hujan". Sedangkan "<i>Natsu," berasal dari bahasa Jepang berarti "musim panas." Jika digabungkan, kira-kira akan terbentuk rangkaian kalimat: "Rintik hujan di musim panas." Eksistensi bahasa Jepang di dalam nama pena saya menunjukkan betapa besarnya budaya (populer) Jejepangan memengaruhi saya. [ :v ]
+Halo semua! <b>Rinai Natsumi</b> disini, selaku penulis blog ini. Tentu ini bukanlah nama asli, melainkan nama pena. Kalau ditarik etimologinya, nama pena saya ini terdiri dari dua kata dalam dua bahasa berbeda. "<i><a href="https://kbbi.kemdikbud.go.id/entri/Rinai">Rinai</a></i>," berasal dari bahasa Minangkabau berarti "rintik hujan". Sedangkan "<i>natsu</i>," berasal dari bahasa Jepang yang bisa berarti "musim panas." Jika digabungkan, kira-kira akan terbentuk rangkaian kalimat: "Rintik hujan di musim panas." Eksistensi bahasa Jepang di dalam nama pena saya menunjukkan betapa besarnya budaya (populer) Jejepangan memengaruhi saya. [ :v ]
 
 
 Saya sering "nongkrong" sebagai kontributor dan peninjau di ensiklopedia daring <a href="https://id.wikipedia.org/wiki/Pengguna:Rinai_Natsumi">Wikipedia</a>. Jujur, saya kagum dengan slogannya, "Ensiklopedia Bebas"  dan "Bebaskan Pengetahuan." Bayangkan hanya dengan menyunting satu artikel, Anda sudah turut berjasa "membebaskan" pengetahuan ke khalayak ramai. Hingga saat ini, saya sudah membuat dan mengembangkan lebih dari seratus artikel di sana.
