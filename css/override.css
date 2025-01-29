@@ -42,11 +42,7 @@ hr {
   transform: translateY(-50%);
   font-size: 2.5em;
   opacity: 0.3;
-}
-
- .profile {
-            text-align:left;
-        }       
+}     
         .round-frame {
             border-radius: 50%;
             width: 150px;
@@ -58,32 +54,6 @@ hr {
             height: 100%;
             object-fit: cover;
         }       
-.social-media-icon {
-	    padding: 10px 12px 9px 12px;
-	    background: #222;
-	    color: #fff;
-	    margin: 5px;
-	    border-radius: 4px;
-	}
-	a.social-media-icon:hover{
-	    background: #fff!important;
-	    color: #222!important;
-	}
-	.facebook{
-		background:  #3c5a98!important;
-	}
-	.twitter{
-		background: #1da1f2!important;
-	}
-	.pixiv{
-		background: #0096fa!important;;
-	}
-	.instagram{
-		background: #FE0094!important;;
-	}
-	.github{
-	 background: #000000!important;;   
-	}
         .round-frame {
             border-radius: 50%;
             width: 150px;
