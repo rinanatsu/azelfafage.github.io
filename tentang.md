@@ -9,7 +9,10 @@ title: Tentang Saya
   
 <p style="text-align: right;"><h3>Rinai Natsumi</h3>
 りないなつみ | ꦫꦶꦤꦻꦤꦠ꧀ꦱꦸꦩꦶ</p>
-
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+    
 Halo semua! <b>Rinai Natsumi</b> disini, selaku penulis blog ini. Tentu ini bukanlah nama asli, melainkan nama pena. Kalau ditarik etimologinya, nama pena saya ini terdiri dari dua kata dalam dua bahasa berbeda. "<i><a href="https://kbbi.kemdikbud.go.id/entri/Rinai">Rinai</a></i>," berasal dari bahasa Minangkabau berarti "rintik hujan". Sedangkan "<i>natsu</i>," berasal dari bahasa Jepang yang bisa berarti "musim panas." Jika digabungkan, kira-kira akan terbentuk rangkaian kalimat: "Rintik hujan di musim panas." Eksistensi bahasa Jepang di dalam nama pena saya menunjukkan betapa besarnya budaya (populer) Jejepangan memengaruhi saya. ( :v )
 
 Saya sering "nongkrong" sebagai kontributor dan peninjau di ensiklopedia daring <a href="https://id.wikipedia.org/wiki/Pengguna:Rinai_Natsumi">Wikipedia</a>. Jujur, saya kagum dengan slogannya, "Ensiklopedia Bebas"  dan "Bebaskan Pengetahuan." Bayangkan hanya dengan menyunting satu artikel, Anda sudah ikut berjasa "membebaskan" pengetahuan ke khalayak ramai. Hingga saat ini, saya sudah membuat dan mengembangkan lebih dari seratus artikel di sana.
