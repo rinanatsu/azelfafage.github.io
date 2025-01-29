@@ -5,10 +5,10 @@
 
 <div class="profile">              
                 <div class="round-frame">
-            <img src="https://raw.githubusercontent.com/Dzaky05/kucinghitam/main/media/FB_IMG_1694165234267.jpg" alt="penggambaran ybs secara rill">
+            <img src="https://raw.githubusercontent.com/Dzaky05/kucinghitam/main/media/FB_IMG_1694165234267.jpg" height="150" alt="penggambaran ybs secara rill">
             </div>
 
-
+<p style="text-align: right;">
  <h3>Rinai Natsumi</h3>
              <a class="social-media-icon facebook" href="https://www.facebook.com/adinata.dzaky.1" style="color: #fff">
 	<span class="fab fa-facebook"></span></a>
@@ -24,6 +24,7 @@
 <a class="social-media-icon pixiv" href="https://www.pixiv.net/en/users/76135039">
     <img src="https://raw.githubusercontent.com/kyynata/kucinghitam/main/media/img_2_1703640314134.jpg" style="width: 15px">	
 </a>
+</p>
 
 Halo semua! <b>Rinai Natsumi</b> disini, saya adalah penulis blog ini. Tentu ini bukanlah nama asli, melainkan hanya nama pena. Kalau ditarik etimologinya, nama pena saya ini terdiri dari dua kata dalam dua bahasa berbeda. "Rinai," berasal dari bahasa Minangkabau berarti "rintik hujan". Sedangkan "Natsu," berasal dari bahasa Jepang berarti "musim panas." Jika digabungkan, kira-kira akan terbentuk rangkaian kalimat: "Rintik hujan di musim panas." Eksistensi bahasa Jepang di dalam nama pena saya menunjukkan betapa besarnya budaya (populer) Jejepangan memengaruhi saya. [ :v ]
 
