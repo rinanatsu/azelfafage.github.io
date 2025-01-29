@@ -8,7 +8,7 @@
             <img src="https://raw.githubusercontent.com/Dzaky05/kucinghitam/main/media/FB_IMG_1694165234267.jpg" height="150" alt="penggambaran ybs secara rill">
             </div>
 
-<p style="text-align: right;">
+<p style="text-align: left;">
  <h3>Rinai Natsumi</h3>
              <a class="social-media-icon facebook" href="https://www.facebook.com/adinata.dzaky.1" style="color: #fff">
 	<span class="fab fa-facebook"></span></a>
