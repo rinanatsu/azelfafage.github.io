@@ -1,14 +1,11 @@
----
-layout: page
-title: Tentang Saya
----
-            
+## Tentang Saya           
 <div class="round-frame">
             <img src="https://raw.githubusercontent.com/Dzaky05/kucinghitam/main/media/FB_IMG_1694165234267.jpg" height="100" alt="penggambaran ybs secara rill">
 </div>
   
-<p style="text-align: right;"><h3>Rinai Natsumi</h3>
-りないなつみ | ꦫꦶꦤꦻꦤꦠ꧀ꦱꦸꦩꦶ</p>
+<h3>Rinai Natsumi</h3>
+<p></big>りないなつみ | ꦫꦶꦤꦻꦤꦠ꧀ꦱꦸꦩꦶ</big></big></p>
+<p><big>🇮🇩 | ID/EN/DE/JV</big></p>
 <div class="social-links">
       {%- include social.html -%}
 </div>
