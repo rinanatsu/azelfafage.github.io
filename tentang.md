@@ -7,8 +7,8 @@ title: Tentang Saya
             <img src="https://raw.githubusercontent.com/Dzaky05/kucinghitam/main/media/FB_IMG_1694165234267.jpg" height="100" alt="penggambaran ybs secara rill">
 </div>
   
-### Rinai Natsumi
-<p>りないなつみ</p>
+<p style="text-align: right;"><h3>Rinai Natsumi</h3>
+りないなつみ | ꦫꦶꦤꦻꦤꦠ꧀ꦱꦸꦩꦶ</p>
 
 Halo semua! <b>Rinai Natsumi</b> disini, selaku penulis blog ini. Tentu ini bukanlah nama asli, melainkan nama pena. Kalau ditarik etimologinya, nama pena saya ini terdiri dari dua kata dalam dua bahasa berbeda. "<i><a href="https://kbbi.kemdikbud.go.id/entri/Rinai">Rinai</a></i>," berasal dari bahasa Minangkabau berarti "rintik hujan". Sedangkan "<i>natsu</i>," berasal dari bahasa Jepang yang bisa berarti "musim panas." Jika digabungkan, kira-kira akan terbentuk rangkaian kalimat: "Rintik hujan di musim panas." Eksistensi bahasa Jepang di dalam nama pena saya menunjukkan betapa besarnya budaya (populer) Jejepangan memengaruhi saya. ( :v )
 
