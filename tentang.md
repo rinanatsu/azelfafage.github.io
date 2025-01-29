@@ -1,0 +1,9 @@
+## Tentang Saya
+Halo semua! <b>Rinai Natsumi</b> disini, saya adalah penulis blog ini. Tentu ini bukanlah nama asli, melainkan hanya nama pena. Kalau ditarik etimologinya, nama pena saya ini terdiri dari dua kata dalam dua bahasa berbeda. "Rinai," berasal dari bahasa Minangkabau berarti "rintik hujan". Sedangkan "Natsu," berasal dari bahasa Jepang berarti "musim panas." Jika digabungkan, kira-kira akan terbentuk rangkaian kalimat: "Rintik hujan di musim panas." Eksistensi bahasa Jepang di dalam nama pena saya menunjukkan betapa besarnya budaya (populer) Jejepangan memengaruhi saya. [ :v ]
+
+<i>Kenapa buat blog?</i> Tidak ada alasan khusus, sekedar hobi saja. Awalnya, kegiatan tulis-menulis bukanlah hal yang saya minati. Waktu SMA, saya pernah diminta menulis cerpen minimal 10.000 jumlah kata dengan tenggat waktu 30 hari. Dari hari pertama sampai hari ke-28, saya puaskan tuk malas-malasan, draft saja belum dibuat. Baru lah di hari ke-29 – sehari sebelum tenggat waktu pengumpulan – saya buat cerpen itu, dengan sistem kebut semalam tentunya. Tak tanggung-tanggung, berbekal aplikasi pengolah kata dan imajinasi, saya berhasil membuat cerpen 10.000 kata hanya dalam waktu 3 jam. Padahal rata-rata teman saya butuh waktu 2 minggu untuk menyelesaikannya. Entah bagaimana hasilnya, yang terpenting berhasil saya kumpulkan tepat waktu. Dari situ, saya mulai berpikir jika menulis itu seru juga.
+
+Saya sering menyalurkan kemampuan menulis saya di situs web ensiklopedia, Wikipedia. Jujur, saya kagum dengan slogannya, "Ensiklopedia Bebas"  dan "Bebaskan Pengetahuan." Hingga sekarang, saya sudah membuat dan mengembangkan lebih dari seratus artikel di sana.
+
+Selain menulis, saya juga menekuni hobi menggambar, meski fokus utamanya hanya menggambar karakter animanga. Lengkapnya bisa Anda lihat di akun Pixiv saya.
+
