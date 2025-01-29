@@ -6,3 +6,4 @@ Halo, salam kenal! Ini adalah situs blog yang ditulis dan dikelola oleh diri say
 Oke, mungkin cukup sekian kata pengantarnya, saya sudah kehabisan kata-kata. Terima kasih bagi yang sudah berkenan membaca isi blog ini! >_<
 
 Tentang Saya • Kontak • Hak Cipta
+<link href="https://github.com/rinanatsu" rel="me">
