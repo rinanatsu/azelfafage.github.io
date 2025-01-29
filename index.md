@@ -5,5 +5,5 @@ Halo, salam kenal! Ini adalah situs blog yang ditulis dan dikelola oleh diri say
 
 Oke, mungkin cukup sekian kata pengantarnya, saya sudah kehabisan kata-kata. Terima kasih bagi yang sudah berkenan membaca isi blog ini! >_<
 
-Tentang Saya • Kontak • Hak Cipta
+<a href="/tentang.md">Tentang Saya</a> • <a href="/lain.md">Serba-serbi</a> • <a href="/archive.md">Arsip</a>
 <link href="https://github.com/rinanatsu" rel="me">
