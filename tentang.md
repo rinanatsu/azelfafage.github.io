@@ -4,7 +4,7 @@
 </div>
   
 <h3>Rinai Natsumi</h3>
-<p></big>りないなつみ | ꦫꦶꦤꦻꦤꦠ꧀ꦱꦸꦩꦶ<br>
+<p>りないなつみ | ꦫꦶꦤꦻꦤꦠ꧀ꦱꦸꦩꦶ<br>
 ID/EN/DE/JV</p>
 <div class="social-links">
       {%- include social.html -%}
